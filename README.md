@@ -1,2 +1,2 @@
 
-I will store all code or documents related to SQL in this repository.
+This repository contains all code or documents related to my SQL projects.
